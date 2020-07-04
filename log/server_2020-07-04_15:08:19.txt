@@ -1,0 +1,22 @@
+2020/07/04_15:08:19 | [as
+] connected (Normal use: 5W, Linited use: 1W)
+2020/07/04_15:08:19 | Device [as
+] set mode to [off] ~ using 0W
+2020/07/04_15:08:19 | Device [as
+] change mode to [off], comsume 0W
+2020/07/04_15:08:19 | System power using: 0W
+2020/07/04_15:08:19 | Device [as
+] change mode to [normal], comsume 5W
+2020/07/04_15:08:19 | System power using: 5W
+2020/07/04_15:08:19 | Device [as
+] change mode to [limited], comsume 1W
+2020/07/04_15:08:19 | System power using: 1W
+2020/07/04_15:08:19 | Device [as
+] change mode to [normal], comsume 5W
+2020/07/04_15:08:19 | System power using: 5W
+2020/07/04_15:08:19 | Device [as
+] change mode to [limited], comsume 1W
+2020/07/04_15:08:19 | System power using: 1W
+2020/07/04_15:08:19 | Device [as
+] change mode to [normal], comsume 5W
+2020/07/04_15:08:19 | System power using: 5W
